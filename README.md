@@ -17,6 +17,19 @@ License***, for more information look at the [LICENSE] file.
 ## See Also
 This project was heavily inspired by [bashplotlib](https://github.com/glamp/bashplotlib)
 
+## Installation
+
+## Contributing
+Contributions are welcome! For more information look at the [CONTRIBUTING] file.
+
+## License
+Everything contributed in this repository is released under the ***Apache 2.0
+License***, for more information look at the [LICENSE] file.
+
+## See also
+This project was heavily inspired by [bashplotlib](https://glamp/bashplotlib/blob/master/README.md)
+
+
 [CONTRIBUTING]: https://github.com/HyperEntangledQubit/shellplot/blob/master/CONTRIBUTING.md
 [LICENSE]: https://github.com/HyperEntangledQubit/shellplot/blob/master/LICENSE.md
 
