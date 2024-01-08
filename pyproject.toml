@@ -1,0 +1,36 @@
+
+[project]
+name = "shellplot"
+version = "0.1.0"
+authors = [
+  {name = "HyperEntangledQubit and individual contributors",
+   email = "25336193+HyperEntangledQubit@users.noreply.github.com"}
+]
+description = "shellplot is a package which provides the ability to generate plots
+in any shell of choice."
+readme = "README.md"
+license = {text = "Apache 2.0"}
+classifiers = [
+  "Development Status :: 1 - Planning",
+  "Intended Audience :: Developers",
+  "License OSI Approved :: Apache Software License",
+  "Natural Language :: English",
+  "Operating System :: MacOS :: MacOS X",
+  "Operating System :: POSIX",
+  "Operating System :: POSIX :: BSD",
+  "Operating System :: POSIX :: Linux",
+  "Programming Language :: Python",
+  "Programming Language :: Python :: 3",
+  "Programming Language :: Python :: 3 :: Only",
+  "Programming Language :: Python :: 3.7",
+  "Programming Language :: Python :: 3.8",
+  "Programming Language :: Python :: 3.9",
+  "Programming Language :: Python :: 3.10",
+  "Programming Language :: Python :: 3.11",
+  "Programming Language :: Python :: 3.12",
+  "Programming Language :: Python :: Implementation :: CPython",
+  "Programming Language :: Python :: Implementation :: PyPy",
+  "Topic :: Scientific/Engineering :: Visualization",
+]
+requires-python = ">=3.7"
+dependencies = []
