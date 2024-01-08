@@ -1,7 +1,13 @@
 # Fill in SPDR info here
-# Using pull version info from pyproject.toml and set using semver lib here
+import os
+import toml
+from pathlib import Path
 
-# Pull the version number from pyporject.toml when added
-__version__ = None
+# Pull module info from pyproject.toml
+pyproject_path = Path(os.pardir, "pyproject.toml").resolve()
+pyproject = toml.load(pyproject_path)['project']
 
-__author__ = "HyperEntangledQubit and individual contributors"
+__name__ = pyproject['name']
+__version__ = pyproject['version']
+__author__ = pyproject['authors']
+__description__ = pyproject['description']
