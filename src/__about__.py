@@ -1,4 +1,5 @@
-# Fill in SPDR info here
+# SPDX-License-Identifier: Apache-2.0
+"""Shellplot package information."""
 import os
 import toml
 from pathlib import Path
