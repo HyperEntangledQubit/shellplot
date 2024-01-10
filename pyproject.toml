@@ -12,6 +12,8 @@ readme = "README.md"
 license = {text = "Apache 2.0"}
 classifiers = [
   "Development Status :: 1 - Planning",
+  "Environment :: Console",
+  "Intended Audience :: End Users/Desktop",
   "Intended Audience :: Developers",
   "License OSI Approved :: Apache Software License",
   "Natural Language :: English",
