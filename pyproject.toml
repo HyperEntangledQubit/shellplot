@@ -1,3 +1,8 @@
+[build-system]
+requires = [
+  "setuptools>=61.0.0",
+]
+
 
 [project]
 name = "shellplot"
@@ -35,4 +40,6 @@ classifiers = [
   "Topic :: Scientific/Engineering :: Visualization",
 ]
 requires-python = ">=3.7"
-dependencies = []
+dependencies = [
+  "toml",
+]
