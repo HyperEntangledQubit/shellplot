@@ -10,5 +10,6 @@ pyproject = toml.load(pyproject_path)['project']
 
 __name__ = pyproject['name']
 __version__ = pyproject['version']
+__about__ = pyproject['license']['text']
 __author__ = pyproject['authors']
 __description__ = pyproject['description']

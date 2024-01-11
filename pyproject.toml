@@ -8,11 +8,9 @@ requires = [
 name = "shellplot"
 version = "0.1.0"
 authors = [
-  {name = "HyperEntangledQubit and individual contributors",
-   email = "25336193+HyperEntangledQubit@users.noreply.github.com"}
+  {name = "HyperEntangledQubit and individual contributors", email = "25336193+HyperEntangledQubit@users.noreply.github.com"}
 ]
-description = "shellplot is a package which provides the ability to generate plots
-in any shell of choice."
+description = "shellplot is a package which provides the ability to generate plots in any shell of choice."
 readme = "README.md"
 license = {text = "Apache 2.0"}
 classifiers = [
